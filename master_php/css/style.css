@@ -1,0 +1,185 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* for image */
+img{
+    width: 10%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+/* use for mentu */
+ul{
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background: teal;
+    margin-left: 30%;
+    margin-top: -30px;
+}
+li {
+    float: left;
+}
+li a{
+    padding: 16px 18px;
+    text-decoration: none;
+    font-family: sans-serif;
+    display: block;
+    color: white;
+}
+li a:hover{
+    background: rgb(111, 0, 255);
+}
+li a:focus{
+    background: blue;
+}
+
+/* //////hrhightligth */
+hr{
+    margin-top: -16px;
+}
+/* ///////comment welcome to PNC 2016 */
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* for lorem */
+h3{
+    margin-left: 50%;
+    margin-top: -22%;
+}
+/* ///////////////////////////////////// */
+/* picture image */
+.contain-4{
+     width: 80%;
+     margin: 0 auto;
+     margin-top: 50px;
+     padding: 12px;
+     display:flex;
+}
+.col-4{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    background:url(../image/hqdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+/* for design by pnc 2016 */
+.container {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 12px;
+    display:flex;
+}
+.col-3{
+    width: 100%;
+    padding: 30px;
+    background:teal;
+    text-align: center;
+    color:white;
+    margin-top: 30px;
+}
+
+/* for comment page Gallery */
+.contain-12 {
+    width: 100%;
+    display:flex;
+    margin-top: 60px;
+    padding: 12px;
+    display:flex;
+    
+}
+.col-1{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    color: black;
+    background:url(../image/wl.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-2{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background:url(../image/images.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-5{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background:url(../image/tt.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-6{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background:url(../image/images.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-7{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background:url(../image/wl.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-8{
+    width: 40%;
+    height: 250px;
+    padding: 20px;
+    margin: 20px;
+    background:url(../image/hqdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2{
+    margin-top: 80%;
+    margin-left: 30%;
+}
+
+/* google map  */
+iframe{
+    width:40%;
+    height: 280px;
+	margin-bottom:10px;
+	margin: 80px;
+	
+}
+
+/* for Email and Message */
+.contain12{
+    margin: 10px;
+    margin-left: 60%;
+    margin-top: -20%;
+}
+
+
+.textarea {
+    width:150px;
+}
